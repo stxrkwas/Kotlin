@@ -1,0 +1,1 @@
+Todos os arquivos presentes nessa pasta foram feitos no VSCode e Playground Kotlin.
